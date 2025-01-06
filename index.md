@@ -8,3 +8,6 @@ i have just written a few lines
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 just a weird cat image
+``` C
+printf("I am professor sick");
+```
