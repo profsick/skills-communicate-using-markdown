@@ -11,3 +11,7 @@ just a weird cat image
 ``` C
 printf("I am professor sick");
 ```
+- [x] Workout
+- [ ] Breakfast
+- [ ] Lunch
+- [ ] Dinner
